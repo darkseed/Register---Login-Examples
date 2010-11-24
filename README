@@ -1,5 +1,6 @@
-Objective-C iPhone code examples
-----------------------------------
+Companion code to go along with my blog post.
+
+Objective-C iPhone code examples:
 - Login Screen
 - Registration Screen
 - Validation Class
@@ -8,5 +9,5 @@ Objective-C iPhone code examples
 
 This is companion code to my blog post: http://appgoal.posterous.com/registration-login-and-validation-complete-do
 
-Follow along as I build an iPhone app from start to finish!
+
 
